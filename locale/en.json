@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token Furnace",
+    "description": "Keeps asking the model pointless questions and answers them in dead earnest. Stops by itself at the round cap or the spend cap set in the control center."
+  }
+}
